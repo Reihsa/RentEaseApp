@@ -5,3 +5,4 @@ if skibidi == "go away anna":
     print("awts gege")
 
 print("bin laden")
+print("Joe Biden")
